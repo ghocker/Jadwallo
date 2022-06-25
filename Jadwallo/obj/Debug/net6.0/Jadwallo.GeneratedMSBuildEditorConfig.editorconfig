@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Jadwallo
+build_property.RootNamespace = Jadwallo
+build_property.ProjectDir = E:\Kuliah Ghozi TI\semester 4\PBO\kodingan\Jadwallo\Jadwallo\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Kuliah Ghozi TI\semester 4\PBO\kodingan\Jadwallo\Jadwallo
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Kuliah Ghozi TI/semester 4/PBO/kodingan/Jadwallo/Jadwallo/Pages/doing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZG9pbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Kuliah Ghozi TI/semester 4/PBO/kodingan/Jadwallo/Jadwallo/Pages/done.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZG9uZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Kuliah Ghozi TI/semester 4/PBO/kodingan/Jadwallo/Jadwallo/Pages/hapus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaGFwdXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Kuliah Ghozi TI/semester 4/PBO/kodingan/Jadwallo/Jadwallo/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Kuliah Ghozi TI/semester 4/PBO/kodingan/Jadwallo/Jadwallo/Pages/kerjakan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNca2VyamFrYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Kuliah Ghozi TI/semester 4/PBO/kodingan/Jadwallo/Jadwallo/Pages/selesai.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2VsZXNhaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Kuliah Ghozi TI/semester 4/PBO/kodingan/Jadwallo/Jadwallo/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Kuliah Ghozi TI/semester 4/PBO/kodingan/Jadwallo/Jadwallo/Pages/tambah.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGFtYmFoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Kuliah Ghozi TI/semester 4/PBO/kodingan/Jadwallo/Jadwallo/Pages/ubah.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdWJhaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Kuliah Ghozi TI/semester 4/PBO/kodingan/Jadwallo/Jadwallo/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Kuliah Ghozi TI/semester 4/PBO/kodingan/Jadwallo/Jadwallo/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Kuliah Ghozi TI/semester 4/PBO/kodingan/Jadwallo/Jadwallo/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-phthbqjm07

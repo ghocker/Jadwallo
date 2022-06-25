@@ -1,0 +1,31 @@
+﻿@page
+@model Jadwallo.Pages.doingModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<section style="padding-top: 2rem;">
+      <div class="row text-center mb-2">
+          <h2>DOING</h2>
+      </div>
+      <div class="row mt-4">
+       @foreach(var item in Model.listjadwal)
+    {
+        <div class="col-md-4">
+            <div class="card mt-2" style="background-color: #f2f5fa">
+              <div class="card-body">
+                <h4>@item.nama</h4>
+                <p>Tenggat Waktu : @item.tanggal</p>
+                <p>Keterangan : @item.keterangan</p>
+                <div class="d-flex justify-content-end">
+                  <a href="/ubah?id=@item.id"><button class="btn btn-outline-warning me-1">Ubah</button></a>
+                  <a href="/hapus?id=@item.id"><button class="btn btn-outline-danger me-1">Hapus</button></a>
+                  <a href="/selesai?id=@item.id"><button class="btn btn-outline-success">Selesai</button></a>
+                </div>
+              </div>
+            </div>
+        </div>
+      
+    }
+      </div>
+    </section>
